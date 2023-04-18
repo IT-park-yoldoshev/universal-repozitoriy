@@ -1,40 +1,43 @@
-.font-cursive{
-    font-family: 'Courier New', Courier, monospace;
+/* CHOTKI BOLDI*/
+.header {
+    display: flex;
+    padding: 20px 40px 21px 40px;
+    justify-content: space-between;
 }
-.font-bold{
-    font-weight: 500;
+.block2 {
+    background-color: #4a3Aff;
+    border: 2px solid #4a3Aff;
+    border-radius: 22px;
+    padding: 10px;
+    color: #f9f9f9;
 }
-.font-itailc{
-    font-style: italic;
+.img {
+    width: auto;
+    height: auto;
 }
-.text-20px{
-    font-size: 1.5rem;
+.aa {
+    color: #4a3Aff;
 }
-.text-24px{
-    font-size: 1.5rem;
+.don {
+    justify-content: center;
 }
-.text-10vh{
-    font-size: 10vh;
+.aaa {
+    display: flex;
 }
-.line-25px{
-    line-height: 25px;
+.flex {
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid #4a3Aff;
+    border-radius: 29px;
+    padding: 12px;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/*Assalomu alekum ustoz boladimi*/
+.block3 {
+    border: 2px solid #4a3Aff;
+    border-radius: 29px;
+    padding: 7px;
+}
+.block4 {
+    border: none;
+}
